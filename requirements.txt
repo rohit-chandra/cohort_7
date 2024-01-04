@@ -5,10 +5,9 @@ scikit-learn
 python-dotenv
 ipytest
 tensorflow
-sagemaker
+sagemaker==2.192.1
 sagemaker[local]
-black
-flake8
+ruff
 nbformat
 nbdev
 nbclient
